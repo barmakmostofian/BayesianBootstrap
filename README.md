@@ -5,5 +5,5 @@ A small set of high-variance data may be the result of kinetic measurements. Suc
 For more information please read and cite the corresponding publication: https://arxiv.org/abs/1806.01998v2    
 <br />
 **Example**<br />
-The example directory contains 5 sample data files with time values (column 1) and example rate constants that span many orders of magnitude (column 2).  The python script performs a 10,000-foled Bayesian bootstrap of the 5 different rate constants at any time point and write to an output file the average rate constant and the minimum and maximum values of a credibility region.  
+The example directory contains 5 sample data files with arbitrary time values (column 1) and example rate constants that span many orders of magnitude (column 2).  The python script performs a 10,000-foled Bayesian bootstrap of the 5 different rate constants at any time point and writes to an output file the average rate constant and the minimum and maximum values of a credibility region.  
   
