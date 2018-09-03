@@ -1,6 +1,6 @@
 import scipy
 import re
-from bootstrap import get_CI, get_CR
+from bootstrap import get_CR
 
 
 RunNums = 5
